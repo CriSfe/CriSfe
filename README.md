@@ -6,7 +6,7 @@
 ## 📬 Get in Touch
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01954ac22ac7bfa5f1)
-- 📧 [email](cristhianfernandoholguin@gmail.com) 
+- 📧 [email](mailto::cristhianfernandoholguin@gmail.com) 
 - 🌐 [Portfolio]() 
 
 ---
